@@ -74,6 +74,6 @@ The business shows strong **cyclicality**:
 The dataset is clean and well-structured, allowing for deep multi-dimensional analysis. The feature engineering of date columns was pivotal in uncovering the Q4 seasonality. Future iterations of this project could incorporate **Predictive Modeling** (e.g., ARIMA or Prophet) to forecast 2018 sales based on the 2014-2017 trends.
 
 ---
-*Report Author: AI Assistant*  
+*Report Author: Ashish Srivastava  
 *Project Reference: e_commerce_sales_analysis*  
 *Last Updated: April 2026*
